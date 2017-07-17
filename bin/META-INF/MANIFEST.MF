@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+MIDlet-Vendor: My Vendor
+MIDlet-Version: 1.0
+MIDlet-1: khmermart, /book.png, com.borland.samples.micro.mobilebookst
+ ore.bookstoreJ2MEclient.khmermart
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Icon: /book.png
+MIDlet-Info-URL: http://www.khmermart.com/mobile
+MIDlet-Name: KhmerMart
+MicroEdition-Profile: MIDP-2.0
+
